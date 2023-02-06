@@ -10,4 +10,4 @@ if(velocidade > 60 ){
     console.log("Segue o baile menor")
 }
 
-console.log(`Diriga sempre usando cinto de segurança`)
+console.log(`Diriga sempre usando cinto de segurança para não ter acidentes`)
